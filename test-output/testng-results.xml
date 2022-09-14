@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17009" started-at="2022-09-14T11:19:32Z" finished-at="2022-09-14T11:19:49Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17009" started-at="2022-09-14T11:19:32Z" finished-at="2022-09-14T11:19:49Z">
+      <class name="Movie">
+        <test-method status="PASS" signature="browserLaunch()[pri:0, instance:Movie@25d250c6]" name="browserLaunch" is-config="true" duration-ms="2980" started-at="2022-09-14T11:19:32Z" finished-at="2022-09-14T11:19:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method status="PASS" signature="test()[pri:0, instance:Movie@25d250c6]" name="test" duration-ms="13804" started-at="2022-09-14T11:19:35Z" finished-at="2022-09-14T11:19:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="browserClose()[pri:0, instance:Movie@25d250c6]" name="browserClose" is-config="true" duration-ms="175" started-at="2022-09-14T11:19:49Z" finished-at="2022-09-14T11:19:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+      </class> <!-- Movie -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
