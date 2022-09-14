@@ -1,1 +1,1 @@
-# I have Validate test case.
+# I have Validate Test Script.
